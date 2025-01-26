@@ -1,0 +1,10 @@
+.activity-section {
+    padding: 50px 20px;
+    text-align: center;
+    background-color: #fff;
+}
+
+.activity-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
